@@ -1,2 +1,2 @@
-Practice using HTML & CSS
+Practice using HTML, CSS and JQuery
 ====
